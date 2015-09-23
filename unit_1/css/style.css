@@ -1,4 +1,37 @@
 body {
-	background-color: gold;
-	color: black;
+	background-color: #FCC29C;
+	color: #000;
+	font-weight: bold;
+	text-align: center;
+	background-image: url("wallpaper2.jpg");
+	
+}
+#logo {
+	text-align: left;
+	font-family: Arial;
+
+}
+#nav{
+	font-size: 24px
+	font-style: italic;
+}
+
+
+#slogan {
+	font-style: italic;
+	
+	
+}
+p{
+	font-size: 18px;
+}
+.lists{
+	font-family: Arial;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 18px;
+	text-align: left;
+}
+.articles {
+	text-align: left;
 }

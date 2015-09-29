@@ -1,37 +1,46 @@
+
+ 
+
 body {
-	background-color: #FCC29C;
+	background-color: #FFF;
 	color: #000;
-	font-weight: bold;
-	text-align: center;
-	background-image: url("wallpaper2.jpg");
-	
-}
-#logo {
 	text-align: left;
+	/*background-image: url("../images/wallpaper2.jpg");*/
+}
+
+h1 {
+	font-family: 'Muli', sans-serif;
+	font-size: 36px;
+	text-align: left;
+	margin: ;
+	line-height: ;
+	}
+
+/*h1{ font-family: Arial;
+	font-size: 36px;
+
+	}*/
+h2{
+    font-family: Arial;
+    font-size: 24;
+}
+	
+p {
+	font-family: georgia, serif;
+	font-size: 30px;
+	text-align: justify;
+	margin: 2em;
+	line-height: 1.5em
+}
+
+ul.li{
 	font-family: Arial;
-
-}
-#nav{
-	font-size: 24px
-	font-style: italic;
-}
-
-
-#slogan {
-	font-style: italic;
-	
-	
-}
-p{
-	font-size: 18px;
-}
-.lists{
-	font-family: Arial;
 	font-weight: bold;
 	font-style: italic;
 	font-size: 18px;
 	text-align: left;
 }
-.articles {
-	text-align: left;
-}
+
+
+
+

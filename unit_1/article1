@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>My Magazine</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+
+<body>
+	<header>
+		<section id="topbar"><!--<img src="images/marquis.jpg" align="left" style="height:100px; width:100px">-->
+		<h1 align="left">MAGAZINE</h1>
+		<nav id="topbar">
+			<a href="#">San Francisco</a>
+			<a href="#">Music</a>
+			<a href="#">Art</a>
+			<a href="#">Video</a>
+		</nav>		
+		</section>	
+</header>
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	</body>
+
+	</html>

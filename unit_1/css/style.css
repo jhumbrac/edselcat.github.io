@@ -1,45 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
- 
-
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
-	background-color: #FFF;
-	color: #000;
-	font-size: 24px;
-	font-family: georgia;
-	line-height: 1.618em;
+	color: #222;
+	font-size: 20px;
+	font-family: georgia, times, serif;
 	/*background-image: url("../images/wallpaper2.jpg");*/
 }
 
 h1{
-	font-family: Arial;
-	font-size: 1.618em;
-	}
+	font-family: 'Open Sans', sans-serif;
+	font-size: 2em;
+}
 
 /*h1{ font-family: Arial;
 	font-size: 36px;
 
 	}*/
 	
-	h2 {
-		font-size: 1.5em;
-		font-family: arial;
-
-	}
+h2 {
+	font-size: 1.5em;
+	font-family: 'Open Sans', sans-serif;
+}
 p {
-	font-size: 1em;
 	text-align: justify;
 	margin: 2em;
-	
 }
 
 /*ul.li{
-	font-family: Arial;
+	font-family: Arial, helvetica, sans-serif;
 	font-weight: bold;
 	font-style: italic;
 	font-size: 18px;
 	text-align: left;
 }
 */
-
-
-
+.clearfix:after { 
+	content: "."; 
+	visibility: hidden; 
+	display: block; 
+	height: 0; 
+	clear: both;
+}

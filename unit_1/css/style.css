@@ -4,42 +4,42 @@
 body {
 	background-color: #FFF;
 	color: #000;
-	text-align: left;
+	font-size: 24px;
+	font-family: georgia;
+	line-height: 1.618em;
 	/*background-image: url("../images/wallpaper2.jpg");*/
 }
 
-h1 {
-	font-family: 'Muli', sans-serif;
-	font-size: 36px;
-	text-align: left;
-	margin: ;
+h1{
+	font-family: Arial;
+	font-size: 1.618em;
 	}
 
 /*h1{ font-family: Arial;
 	font-size: 36px;
 
 	}*/
-h2{
-    font-family: Arial;
-    font-size: 24;
-}
 	
+	h2 {
+		font-size: 1.5em;
+		font-family: arial;
+
+	}
 p {
-	font-family: georgia, serif;
-	font-size: 30px;
+	font-size: 1em;
 	text-align: justify;
 	margin: 2em;
-	line-height: 1.5em
+	
 }
 
-ul.li{
+/*ul.li{
 	font-family: Arial;
 	font-weight: bold;
 	font-style: italic;
 	font-size: 18px;
 	text-align: left;
 }
-
+*/
 
 
 
